@@ -1,0 +1,36 @@
+html, body {
+  height: 100%;
+  max-width: 100%;
+  background-color: #c2c2c2
+  margin: 100px;
+  padding: 10px;
+  
+}
+h1{
+  margin: 0px:
+  padding: 0px;
+}
+h2{
+  
+}
+h3{
+  margin: 0px:
+  padding: 0px;
+  color: #4d4d4d
+}
+h4{
+  
+}
+h5{
+  
+}
+h6{
+
+}
+html, body {
+    height: 100%;
+    max-width: 100%;
+    background: linear-gradient(to bottom, #6b4f2c, #1a1a1a);
+    margin: 100px;
+    padding: 10px;
+}
