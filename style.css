@@ -29,7 +29,7 @@ h6{
 html, body {
     height: 100%;
     max-width: 100%;
-    background: linear-gradient(to bottom, #6b4f2c, #1a1a1a);
+    background: linear-gradient(to bottom, hsl(0, 0%, 100%), #957043);
     margin: 100px;
     padding: 10px;
 }
